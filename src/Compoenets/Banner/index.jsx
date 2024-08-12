@@ -48,7 +48,7 @@ const Banner = () => {
         </div>
         {link && (
           <Button variant="outline-dark" href={link} target="_blank" rel="noopener noreferrer">
-            Learn More <FaExternalLinkAlt style={styles.icon} />
+            LINK <FaExternalLinkAlt style={styles.icon} />
           </Button>
         )}
       </div>
